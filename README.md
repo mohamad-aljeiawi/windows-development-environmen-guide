@@ -153,10 +153,10 @@ NVM is the recommended way to manage multiple Node.js versions.
    nvm on
    ```
 
-4. Install and use the latest Node.js LTS version:
+4. Install the latest Node.js LTS version (e.g., 22.x), Preferably use 22:
    ```powershell
-   nvm install lts
-   nvm use lts
+   nvm install 22
+   nvm use 22
    ```
 
 5. Verify installation: `node -v` and `npm -v`.
